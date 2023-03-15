@@ -155,18 +155,20 @@ h3
 {
     background-color: red;
     padding-bottom: 5rem;
+    align-items: center;
+    text-align: center;
 }
 .links-1
 {
     text-align: center;
     display: block;
 }
-marquee
+/* marquee
 {
     font-size: 1.6rem;
     font-weight: 600;
-}
-.facebook
+} */
+/* .facebook
 {
     height: 4rem;
     width: 4rem;
@@ -175,17 +177,17 @@ marquee
 {
     width: 3rem;
     height: 3rem;
-}
-.twitter
+} */
+/* .twitter
 {
     width: 3rem;
     height: 3rem;
 }
 .instagram
 {
-    width: 3rem;
-    height: 3rem;
-}
+    width: 5rem;
+    height: 10rem;
+} */
 .contact 
 {
     color: midnightblue;
@@ -211,6 +213,10 @@ p
     color: red;
 }
 .all-projects a:hover
+{
+    color: royalblue;
+}
+.links:hover
 {
     color: royalblue;
 }
